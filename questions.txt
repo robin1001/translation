@@ -1,0 +1,6 @@
+tensor layer
+bottleneck
+pooling
+dropout
+deep architechure
+more recently & recently
