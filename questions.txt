@@ -4,3 +4,4 @@ pooling
 dropout
 deep architechure
 more recently & recently
+Triefenbach et al. [365]
